@@ -1,6 +1,6 @@
 # Các trang web có API miễn phí
 
-Dưới đây là danh sách các trang web có API miễn phí để sử dụng trong các dự án của bạn:
+Dưới đây là danh sách các trang web có API miễn phí để sử dụng trong các dự án:
 
 1. [OpenWeatherMap API](https://openweathermap.org/api) - API để truy xuất dữ liệu thời tiết
 2. [The Movie Database (TMDb) API](https://www.themoviedb.org/documentation/api) - API để truy xuất dữ liệu phim và chương trình truyền hình
